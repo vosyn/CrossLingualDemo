@@ -1,0 +1,3 @@
+[submodule "Cross-Lingual-Voice-Cloning"]
+	path = Cross-Lingual-Voice-Cloning
+	url = https://github.com/m-bilu/Cross-Lingual-Voice-Cloning.git
