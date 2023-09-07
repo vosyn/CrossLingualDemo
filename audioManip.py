@@ -6,7 +6,7 @@ if __name__ == '__main__':
 
     inputName = sys.argv[1]
     outputName = sys.argv[2]
-    targetRate = sys.argv[3]
+    targetRate = int(sys.argv[3])
 
     if not os.path.exists(outputName):
         os.makedirs(outputName)
