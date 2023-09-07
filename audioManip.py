@@ -8,6 +8,9 @@ if __name__ == '__main__':
     outputName = sys.argv[2]
     targetRate = sys.argv[3]
 
+    if not os.path.exists(outputName):
+        os.makedirs(outputName)
+
     for f in os.listdir(inputName):
         if f.endswith('.wav'):
             
