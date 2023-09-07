@@ -15,7 +15,7 @@ if __name__ == '__main__':
         if f.endswith('.wav'):
             
             #Load Audio
-            audio = AudioSegment.from_wav(os.path.join(input_folder, f))
+            audio = AudioSegment.from_wav(os.path.join(inputName, f))
 
             # Set to target sample rate
             audio = audio.set_frame_rate(targetRate)
