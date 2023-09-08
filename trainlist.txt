@@ -67,7 +67,7 @@ wavs/25.wav|But it's like getting a job is like having money in your pocket. If 
 19demarzo/19demarzo_0041.wav|fue por la plaza Mayor y los portales llamados de Bringas. Hacia la esquina de la calle de Milaneses, frente a la Cava de San Miguel,|1|1
 19demarzo/19demarzo_0042.wav|presencié el primer choque del pueblo con los invasores, porque habiendo aparecido como una veintena de franceses que acudían a incorporarse a sus regimientos,|1|1
 19demarzo/19demarzo_0043.wav|fueron atacados de improviso por una cuadrilla de mujeres ayudadas por media docena de hombres.|1|1
-19demarzo/19demarzo_0044.wav|Aquella lucha no se parecía a ninguna peripecia de los combates ordinarios,|1|1
+../19demarzo/19demarzo_0044.wav|Aquella lucha no se parecía a ninguna peripecia de los combates ordinarios,|1|1
 19demarzo/19demarzo_0045.wav|pues consistía en reunirsesúbitamente envolviéndose y atacándose sin reparar en el número ni en la fuerza del contrario.|1|1
 19demarzo/19demarzo_0046.wav|Los extranjeros se defendían con su certera puntería y sus buenas armas:|1|1
 19demarzo/19demarzo_0047.wav|pero no contaban con la multitud de brazos que les ceñían por detrás y por delante, como rejos de un inmenso pulpo;|1|1
