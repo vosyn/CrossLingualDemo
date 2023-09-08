@@ -23,6 +23,7 @@
 ../wavs/23.wav|I leave and I'm at the elevator and he comes running down the hall and he said, Wait. Come back, come back, come back. Says I have another part. Maybe you would|0|0
 ../wavs/24.wav|like to do. This guy's name is Simonowski? Yeah. This factory superintendent. One day shoot|0|0
 ../wavs/25.wav|But it's like getting a job is like having money in your pocket. If you got it, you can get it, strangely enough. So this was in September. By October|0|0
+../wavs/26.wav|over I had a TV job, an off Broadway show. I was directing a play. And I was going to be in January going to|0|0
 ../19demarzo/19demarzo_0000.wav|Durante nuestra conversación advertí que la multitud aumentaba, apretándose más.|1|1
 ../19demarzo/19demarzo_0001.wav|Componíanla personas de ambos sexos y de todas las clases de la sociedad,|1|1
 ../19demarzo/19demarzo_0002.wav|espontáneamente venidas por uno de esos llamamientos morales, íntimos, misteriosos, informulados, que no parten de ninguna voz oficial,|1|1
