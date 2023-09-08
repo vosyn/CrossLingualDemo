@@ -1,7 +1,7 @@
-wavs/26.wav|over I had a TV job, an off Broadway show. I was directing a play. And I was going to be in January going to|0|0
-wavs/27.wav|do this movie was called Harry and Sons. Film is my absolute favourite because I always wanted to be in the movies.|0|0
-wavs/28.wav|Dream was not to be a stage actor. It was to be a movie actor. Be in the movies, to do everything. So|0|0
-wavs/29.wav|the all of the different types of acting. A lot of TV, 20 years on stage, and it was fun, but it's|0|0
-wavs/30.wav|that just didn't hit that button. Doesn't matter to me what I'm doing. I enjoy it all. I want to do it all. That was the thing.|0|0
-19demarzo/19demarzo_0049.wav|ni con la espantosa centuplicación de pequeñas fuerzas que sin matar imposibilitaban la defensa.|1|1
-19demarzo/19demarzo_0050.wav|Algunas veces esta superioridad de los madrileños era tan grande, que no podía menos de ser generosa;|1|1
+../wavs/26.wav|over I had a TV job, an off Broadway show. I was directing a play. And I was going to be in January going to|0|0
+../wavs/27.wav|do this movie was called Harry and Sons. Film is my absolute favourite because I always wanted to be in the movies.|0|0
+../wavs/28.wav|Dream was not to be a stage actor. It was to be a movie actor. Be in the movies, to do everything. So|0|0
+../wavs/29.wav|the all of the different types of acting. A lot of TV, 20 years on stage, and it was fun, but it's|0|0
+../wavs/30.wav|that just didn't hit that button. Doesn't matter to me what I'm doing. I enjoy it all. I want to do it all. That was the thing.|0|0
+../19demarzo/19demarzo_0049.wav|ni con la espantosa centuplicación de pequeñas fuerzas que sin matar imposibilitaban la defensa.|1|1
+../19demarzo/19demarzo_0050.wav|Algunas veces esta superioridad de los madrileños era tan grande, que no podía menos de ser generosa;|1|1
